@@ -1,9 +1,12 @@
 #Greenfoot project file
-class.Button.image=Button.png
 dependency1.from=Space
 dependency1.to=Star
 dependency1.type=UsesDependency
+<<<<<<< HEAD
 editor.fx.0.height=833
+=======
+editor.fx.0.height=1067
+>>>>>>> parent of 2ff9f85... Added Text to Button
 editor.fx.0.width=818
 editor.fx.0.x=47
 editor.fx.0.y=221
@@ -33,7 +36,7 @@ target1.width=80
 target1.x=160
 target1.y=10
 target2.height=50
-target2.name=Button
+target2.name=Counter
 target2.showInterface=false
 target2.type=ClassTarget
 target2.width=80
